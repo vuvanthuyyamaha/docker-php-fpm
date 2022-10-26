@@ -11,3 +11,4 @@ Out of the box, multi-version, fully loaded PHP-FPM docker images, that can supp
 ## Supported branches and respective Dockerfile links
 
 - 8.1 [Dockerfile](./8.1/Dockerfile)
+- 8.0 [Dockerfile](./8.0/Dockerfile)
