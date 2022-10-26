@@ -14,3 +14,4 @@ Out of the box, multi-version, fully loaded PHP-FPM docker images, that can supp
 - 8.0 [Dockerfile](./8.0/Dockerfile)
 - 7.4 [Dockerfile](./7.4/Dockerfile)
 - 7.1 [Dockerfile](./7.1/Dockerfile)
+- 5.6 [Dockerfile](./5.6/Dockerfile)
